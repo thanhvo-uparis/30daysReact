@@ -1,4 +1,6 @@
 .header-wrapper {
+    height: 400px;
+    text-align: center;
     background-color: #61DBFB;
     font-family: 'Helvetica Neue';
     padding: 25px;
