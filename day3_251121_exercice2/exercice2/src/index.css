@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.champs-container {
+    font-size: 16px;
+}
+
+.inputContainer {
+    font-size: 16px;
+}
+
+.inputItems {
+    font-size: 16px;
+}
+
+
+.btn-submit {
+  font-size: 16px;
+}
