@@ -1,40 +1,18 @@
-/*
-ReactDOM.render(
-  <React.StricMode>
-  <React.StrictMode>
-    <App/>
-  </React.StrictMode>,
-  document.getElementById('root')
-);
-*/
-
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 const Header = () => {
   return (
     <div>
-          <h1>Welcome to 30 Days Of React</h1>
-          <h2>Getting Started React</h2>
-          <h3>Javascript Library</h3>
-          <p>Nicola Vincent</p>
-          <small>25 Novembre 21</small>
-      </div>
+      <h1>Welcome to 30 Days Of React</h1>
+      <h2>Getting Started React</h2>
+      <h3>JavaScript Library</h3>
+      <p>thanh vo</p>
+      <p>28 Novembre 2021</p>
+    </div>
+
   )
 }
-
-/*
-const Header = () => (
-    <div>
-        <h1>Welcome to 30 Days Of React</h1>
-        <h2>Getting Started React</h2>
-        <h3>Javascript Library</h3>
-        <p>Nicola Vincent</p>
-        <small>25 Novembre 21</small>
-  </div>
-)
-
-*/
 
 const Application = () => (
   <div>
