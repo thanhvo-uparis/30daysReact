@@ -1,10 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DarkMode from './DarkMode';
+import App from './day8D171221/App';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <DarkMode />
-  </React.StrictMode>,
+  <App />,
   document.getElementById('root')
 );
